@@ -1,2 +1,4 @@
-# CircularQueue-C-
-Simple circular queue
+# CircularQueue-C++
+Simple circular queue that integrates a revision of data structures.
+
+
